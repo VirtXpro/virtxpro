@@ -1,7 +1,7 @@
 <img src="https://github.com/DARJYO/virtXpro/blob/main/img/vxp.png" height="25%" width="25%">    
 a Virtual work Experience Program that is free for young adults.
 
-#### What is a Virtual Experience Program?
+#### What is DARJYO's Virtual Experience Program?
 
 In our Virtual Experience Program, you will complete a simulation of the work outlined by the Dev Team. The program is remote & self-paced. You get to practice skills from our leading projects and can add these experiences to your resume.
 
