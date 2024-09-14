@@ -11,8 +11,8 @@ Our virtual work experience program contains project tasks from different divisi
 1. View instructions.
 2. Access curated resources to help you in the task.
 3. Submit work that reflects actual day to day tasks.
-4. Some of our projects include:
 
+4. Some of our projects include:
 <li>Tech Consulting 
 <li>Data Analytics 
 <li>Design & Branding 
