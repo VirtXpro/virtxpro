@@ -7,7 +7,7 @@ In our Virtual Experience Program, you will complete a simulation of the work ou
 
 #### How does DARJYO's Virtual Experience Program work?
 
-Our virtual work experience program contains projct tasks from different divisions.
+Our virtual work experience program contains project tasks from different divisions.
 - View instructions.
 - Access curated resources to help you in the task.
 - Submit work that reflects actual day to day tasks.
