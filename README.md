@@ -1,9 +1,9 @@
 <img src="https://github.com/DARJYO/virtXpro/blob/main/img/vxp.png" height="25%" width="25%">    
-a Virtual work Experience Program that is free for young adults.
+a Virtual Experience Program powered by DARJYO.
 
 #### What is DARJYO's Virtual Experience Program?
 
-In our Virtual Experience Program, you will complete a simulation of the work outlined by the Dev Team. The program is remote & self-paced. You get to practice skills from our leading projects and can add these experiences to your resume.
+In our Virtual Experience Program, you will complete a simulation of the work outlined by the DARJYO Dev Team. The program is remote & self-paced. You get to practice skills from our leading projects and can add these experiences to your resume.
 
 #### How does DARJYO's Virtual Experience Program work?
 
@@ -19,7 +19,7 @@ Our virtual work experience program contains project tasks from different divisi
 
 #### How easy is it to apply?
 
-It is extremely user friendly and includes a wide array of specific projects to choose from. Each VirtXpro virtual internship is equipped with modules, instructions, and resources to complete each task to guide each intern through their specific internship. Each internship is self-paced to gain practical skills and experience. This experience will allow you to solve real client issues and find solutions.
+It is extremely user friendly and includes a wide array of specific projects to choose from. Each VirtXpro virtual internship is equipped with modules, instructions, and resources to complete each task to guide each intern through their specific internship. Each experience is self-paced to gain practical skills that will allow you to solve real client issues and find solutions.
 
 #### Unpaid AND Remote - Not sure if VirtXpro is for you?
 
