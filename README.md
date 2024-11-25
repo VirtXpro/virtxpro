@@ -28,6 +28,19 @@ It is extremely user friendly and includes a wide array of specific projects to 
 - Fundamental and structured knowledge of the necessary technologies.
 - Experience with deadlines and work planning.
 
+#### Why DARJYO has adopted the self-paced virtual approach
+<i>Developers and Engineers in the workspace do not wish to be micro-managed when they are coding and debugging;)</i>
+
+As a startup our choice in adopting self-paced remote internships are due to several key benefits:
+- Flexibility and Accessibility: Accommodates diverse schedules and attracts a wider talent pool.
+- Cost-Effectiveness: Reduces overhead costs associated with in-person supervision.
+- Skill Development: Fosters independence, self-discipline, and time management skills.
+- Scalability: Enables us to expand internship programs without significant resource increases.
+- Technological Advantage: Leverages online platforms for efficient remote project management.
+- Feedback Loop: Allows for program evaluation and improvement through exit interviews and surveys.
+
+While direct communication may be limited, self-paced internships offer a valuable opportunity for both interns and DARJYO to achieve mutual goals.
+
 #### VirtXpro prepares you for your first job after graduation?
 
 As a student in college, it is hard to gain relevant experience. Through virtXpro, you will be able to gain exposure into the relevant tech fields. It allows you to have something to discuss during an interview and how it has prepared you for your role.
