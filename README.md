@@ -29,7 +29,7 @@ It is extremely user friendly and includes a wide array of specific projects to 
 - Experience with deadlines and work planning.
 
 #### Why DARJYO has adopted the self-paced virtual approach
-<i>Developers and Engineers in the workspace do not wish to be micro-managed when they are coding and debugging;)</i>
+<i>Developers and Engineers in the workspace do not wish to be micro-managed when they are coding and debugging ;-p</i>
 
 As a startup our choice in adopting self-paced remote internships are due to several key benefits:
 - Flexibility and Accessibility: Accommodates diverse schedules and attracts a wider talent pool.
