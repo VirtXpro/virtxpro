@@ -49,4 +49,8 @@ Anyone seeking a free online, innovative platform to gain experience to put on t
 
 Click here to Apply: https://github.com/VirtXpro/interns
 
-<i>Please note that DARJYO is not an accredited education body, and thus participants of the virtXpro program will not receive an <b>accredited</b> qualification or credential. Participation does not constitute employment with DARJYO, nor is a pathway to employment by DARJYO.<i>
+<i>Please note that DARJYO is not an <b>accredited</b> education or training institution. Programmes offered through the virtXpro platform do not result in an accredited qualification issued by DARJYO.
+<br>
+Where applicable, participants may complete third-party learning modules (such as Microsoft, AWS etc.) facilitated through DARJYO. Certificates, where issued, are provided directly by the respective third-party providers and are subject to their own terms, conditions, and verification processes.
+<br>
+Participation in the virtXpro programme does not constitute employment with DARJYO, nor does it guarantee or imply future employment. The programme is designed for skills development, industry exposure, and practical experience.<i>
